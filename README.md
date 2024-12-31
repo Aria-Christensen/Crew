@@ -1,3 +1,7 @@
+# To Operate:
+* navigate to Crew/server and run `npm run dev`
+* navigate to Crew/client/src and run `npm start` 
+
 # Crew
 * Sign In
   - sign in
