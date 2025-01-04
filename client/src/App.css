@@ -1,5 +1,45 @@
 .App {
   text-align: center;
+  background-image: url(background.jpg);
+  height: 100vh;
+}
+
+header {
+  background-color: #003180;
+  color: white;
+  height: 15vh;
+  line-height: 15vh;
+  font-size: 250%;
+  font-family: monospace;
+  word-spacing: 100%;
+  letter-spacing: 10%;
+}
+
+.Title{
+  font-size: 150%;
+}
+
+footer {
+  background-color: black;
+  color: white;
+  width: 100vw;
+  bottom: 0;
+  position: fixed;
+}
+
+footer .link {
+  color: cyan;
+}
+
+.Login{
+  background-image: radial-gradient(#8c8c8c,#404040);
+  color: white;
+  width: 20%;
+  height: 45vh;
+  margin: auto;
+  margin-top: 20vh;
+  border-radius: 12%;
+  text-align: center;
 }
 
 .App-logo {
